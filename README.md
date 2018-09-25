@@ -1,0 +1,2 @@
+# MojangStatus
+Mojang Status getter
